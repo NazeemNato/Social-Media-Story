@@ -18,12 +18,6 @@ List<Story> stories = [
     url: 'https://cutekawaiiresources.files.wordpress.com/2013/07/2.jpg',
     user: user
   ),Story(
-    url:
-        'https://static.videezy.com/system/resources/previews/000/005/529/original/Reaviling_Sjusj%C3%B8en_Ski_Senter.mp4',
-    type: MediaType.video,
-    duration: const Duration(seconds: 0),
-    user: user
-  ),Story(
     duration: _durationImage,
     type: MediaType.image,
     url: 'https://cutekawaiiresources.files.wordpress.com/2013/07/15.jpg',
